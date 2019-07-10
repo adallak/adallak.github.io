@@ -335,7 +335,7 @@ footer .theme-by {
 }
 
 .post-preview .post-title {
-  font-size: 24px;
+  font-size: 30px;
   margin-top: 0;
 }
 .post-preview .post-subtitle {
@@ -433,7 +433,7 @@ footer .theme-by {
 /* --- Post and page headers --- */
 
 .intro-header {
-  margin: 80px 0 20px;
+  margin: 60px 0 20px;
   position: relative;
 }
 .intro-header.big-img {
