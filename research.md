@@ -1,3 +1,8 @@
+---
+layout: page
+title: Research
+---
+
 **Summary of research interests:**
 
 * high-dimensional data analysis
