@@ -16,7 +16,7 @@ probability distributions; sampling and descriptive measures; inference and hypo
 
 **Math Camp**(Summer 2017, 2018) Review of real analysis for incoming Ph.D. students. Developed the curriculum and recorded a series of online videos.
 
-## Classes taught as an Lecturer at Master of Agribusiness (MAB), Armenian National Agrarian University (Online)
+## Classes taught as an Lecturer at Armenian National Agrarian University (Online)
 
 **AGBU 505: Quantitative Marketing Analysis**.(Summer 2018,2019) Introduction to traditional and advanced marketing techniques using R. 
 The covered topics include Linear Regression, Decision and Classification Trees, Random Forest, Bagging, Principal Component Analysis and Cluster Analysis.
