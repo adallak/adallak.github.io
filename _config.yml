@@ -21,7 +21,7 @@ description: PhD Student, Department of Statistics, Texas A&M University
 # List of links in the navigation bar
 navbar-links:
   Home: "adallak.github.io/index"
-  Research:
+  Research: "research.md"
    # - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
    # - Learn markdown: "http://www.markdowntutorial.com/"
   Publications : # "http://deanattali.com"
@@ -70,7 +70,7 @@ author:
 social-network-links:
   rss: true
   email: "dallakyan1988@tamu.edu"
-  facebook: deanattali
+#  facebook: deanattali
   github: daattali
 #  twitter: daattali
 #  reddit: yourname
