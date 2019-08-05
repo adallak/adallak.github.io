@@ -2,7 +2,7 @@
 layout: page
 title: Publications
 bigimg: 
-  - "/Resources/publication.jpg" 
+  - "/Resources/publications.jpg" 
 ---
 
 
