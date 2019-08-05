@@ -1,6 +1,9 @@
 ---
 layout: page
 title: Publications
+.......
+bigimg: 
+  - "/Resources/publication.jpg" : "comment"
 ---
 
 ## Working Projects
