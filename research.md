@@ -1,6 +1,8 @@
 ---
 layout: page
 title: Research
+bigimg: 
+  - "/Resources/publications.jpg" 
 ---
 
 **Summary of research interests:**
