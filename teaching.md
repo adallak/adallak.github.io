@@ -1,6 +1,8 @@
 ---
 layout: page
 title: Teaching
+bigimg: 
+  - "/Resources/teaching.jpg" 
 ---
 
 ## Classes taught as an Instructor at Texas A&M University
