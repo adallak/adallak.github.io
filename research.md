@@ -2,7 +2,7 @@
 layout: page
 title: Research
 bigimg: 
-  - "/Resources/publications.jpg" 
+  - "/Resources/research.jpg" 
 ---
 
 **Summary of research interests:**
