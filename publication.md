@@ -6,6 +6,7 @@ bigimg:
   - "/Resources/publication.jpg" : "comment"
 ---
 
+
 ## Working Projects
 
 **Dallakyan A.** and Pourahmadi M. (2019+). Local Stationarity and Smoothing Subdiagonals of the  Cholesky Factor of Large Covariance Matrices.[R Package available soon]
