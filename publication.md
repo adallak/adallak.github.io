@@ -1,9 +1,8 @@
 ---
 layout: page
 title: Publications
-.......
 bigimg: 
-  - "/Resources/publication.jpg" : "comment"
+  - "/Resources/publication.jpg" 
 ---
 
 
