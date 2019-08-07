@@ -1,4 +1,7 @@
-
+---
+layout: page
+title: Lab 1
+---
 
 ```R
 #install.packages("psych")
