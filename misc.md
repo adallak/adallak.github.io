@@ -3,6 +3,6 @@ layout: page
 title: Useful Material
 ---
 
-## Advanced Quantitative Marketing Using R Material
+## AGBU 505: Advanced Quantitative Marketing Using R
 
-1. Lecture Note 1 - Linear Regression [presentetion](../Resources/Lec1.pdf), [lab session](../Resources/Lab1.ipynb)
+1. Lecture 1 - Linear Regression [presentetion](../Resources/Lec1.pdf), [lab session](../Resources/Lab1.ipynb)
