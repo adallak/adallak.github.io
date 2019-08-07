@@ -1,8 +1,6 @@
 ---
 layout: page
 title: Useful Material
-bigimg: 
-  - "/Resources/publications.jpg" 
 ---
 
 ## Advanced Quantitative Marketing Using R Material
