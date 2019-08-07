@@ -1,4 +1,7 @@
-
+---
+layout: page
+title: Lecture 1 Lab Session
+---
 
 ```R
 #install.packages("psych")
