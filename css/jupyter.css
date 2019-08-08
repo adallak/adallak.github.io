@@ -1,3 +1,7 @@
+---
+css: /css/jupyer.css
+---
+
 header + .container > div.row > div {
   margin: 0 auto !important;
 }
