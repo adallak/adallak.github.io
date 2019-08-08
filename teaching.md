@@ -14,12 +14,12 @@ probability distributions; sampling and descriptive measures; inference and hypo
 
 ### Department of Agricultural Economics
 
-**PhD Tutorial Classes**(Fall 2016,Spring 2017,Fall 2017, Spring 2018) Prepared first year PhD students to qualifier exam. Weekly review sessions on Micro-Economics, Econometric and Game Theory 
+**PhD Tutorial Classes**. (Fall 2016,Spring 2017,Fall 2017, Spring 2018) Prepared first year PhD students to qualifier exam. Weekly review sessions on Micro-Economics, Econometric and Game Theory 
 
-**Math Camp**(Summer 2017, 2018) Review of real analysis for incoming Ph.D. students. Developed the curriculum and recorded a series of online videos.
+**Math Camp**. (Summer 2017, 2018) Review of real analysis for incoming Ph.D. students. Developed the curriculum and recorded a series of online videos.
 
 ## Classes taught as an Lecturer at Armenian National Agrarian University (Online)
 
-**AGBU 505: Quantitative Marketing Analysis**.(Summer 2018,2019) Introduction to traditional and advanced marketing techniques using R. 
+**AGBU 505: Quantitative Marketing Analysis**. (Summer 2018,2019) Introduction to traditional and advanced marketing techniques using R. 
 The covered topics include Linear Regression, Decision and Classification Trees, Random Forest, Bagging, Principal Component Analysis and Cluster Analysis. (<a href="../misc" target="_blank">Course Material</a>)
 
