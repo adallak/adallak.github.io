@@ -14,7 +14,7 @@ probability distributions; sampling and descriptive measures; inference and hypo
 
 ### Department of Agricultural Economics
 
-**PhD Tutorial Classes**. (Fall 2016,Spring 2017,Fall 2017, Spring 2018) Prepared first year PhD students to qualifier exam. Weekly review sessions on Micro-Economics, Econometric and Game Theory 
+**PhD Tutorial Classes**. (Fall 2016,Spring 2017,Fall 2017, Spring 2018) Prepared first year PhD students to qualifier exam. Weekly review sessions on Micro-Economics, Econometric and Game Theory.
 
 **Math Camp**. (Summer 2017, 2018) Review of real analysis for incoming Ph.D. students. Developed the curriculum and recorded a series of online videos. (<a href="../misc" target="_blank">Course Material</a>)
 
