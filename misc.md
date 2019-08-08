@@ -10,5 +10,8 @@ title: Useful Material
 3. Lecture 3 - Classification [presentetion](../Resources/Lec3.pdf), <a href="../Resources/Lab3" target="_blank">lab session</a> 
 4. Lecture 4 - Choice Models, Conjoint Analysis [presentetion](../Resources/Lec4.pdf), <a href="../Resources/Lab4" target="_blank">lab session</a> 
 ### Unsupervised Learning
+5. Lecture 5 - Principal Component Analysis, Perceptual Mapping [presentetion](../Resources/Lec5.pdf), <a href="../Resources/Lab5" target="_blank">lab session</a> 
+6. Lecture 6 - Cluster Analysis [presentetion](../Resources/Lec6.pdf), <a href="../Resources/Lab6" target="_blank">lab session</a> 
+7. Lecture 7 - Association Rules, Market Basket Analysis [presentetion](../Resources/Lec7.pdf), <a href="../Resources/Lab7" target="_blank">lab session</a> 
 
 
