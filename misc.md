@@ -30,5 +30,6 @@ title: Useful Material
 
 ## Introduction to Python (Department of Agricultural Economics, Texas A&M University)
 
-- Day 1 - [Hands-on Python](../Resources/day1)
-- Day 2 - [Data Wrangling](../Resources/day2)
+- Day 1 - <a href="../Resources/day1" target="_blank">Hands-On Python</a>
+- Day 2 - <a href="../Resources/day2" target="_blank">Data Wrangling</a>
+
