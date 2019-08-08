@@ -21,4 +21,5 @@ probability distributions; sampling and descriptive measures; inference and hypo
 ## Classes taught as an Lecturer at Armenian National Agrarian University (Online)
 
 **AGBU 505: Quantitative Marketing Analysis**.(Summer 2018,2019) Introduction to traditional and advanced marketing techniques using R. 
-The covered topics include Linear Regression, Decision and Classification Trees, Random Forest, Bagging, Principal Component Analysis and Cluster Analysis.
+The covered topics include Linear Regression, Decision and Classification Trees, Random Forest, Bagging, Principal Component Analysis and Cluster Analysis. <a href="../misc" target="_blank">(Course Material)</a>
+
