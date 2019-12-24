@@ -8,7 +8,7 @@ bigimg:
 
 ## Working Projects
 
-**Dallakyan A.** and Pourahmadi M. (2019+). Local Stationarity and Smoothing Subdiagonals of the  Cholesky Factor of Large Covariance Matrices.[R Package available soon]
+**Dallakyan A.** and Pourahmadi M. (2019+). Local Stationarity and Smoothing Subdiagonals of the  Cholesky Factor of Large Covariance Matrices.[R Package]: https://github.com/adallak/SCPackage
 
 **Dallakyan A.**, Rakheon Kim, and Pourahmadi M. (2019 +). Time Series Graphical Lasso vs Sparse VAR Algorithms.[R Package available soon]
 
