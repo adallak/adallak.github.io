@@ -8,7 +8,7 @@ bigimg:
 
 ## Working Projects
 
-**Dallakyan A.** and Pourahmadi M. (2020+). Fused-Lasso Regularized Cholesky Factors of Large Nonstationary Covariance Matrices of Longitudinal Data. [R Package](https://github.com/adallak/SCPackage) Available [on the arxiv](https://arxiv.org/abs/2007.11168)
+**Dallakyan A.** and Pourahmadi M. (2020+). Fused-Lasso Regularized Cholesky Factors of Large Nonstationary Covariance Matrices of Longitudinal Data. Available [on the arxiv](https://arxiv.org/abs/2007.11168). [R Package](https://github.com/adallak/SCPackage)
 
 **Dallakyan A.**, Rakheon Kim, and Pourahmadi M. (2020 +). Time Series Graphical Lasso vs Sparse VAR Algorithms.[R Package available soon]
 
