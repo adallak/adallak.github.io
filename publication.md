@@ -7,10 +7,12 @@ bigimg:
 
 
 ## Working Projects
+**Dallakyan A.** and Pourahmadi M. (2021+). Learning Bayesian Netwroks through Birkhoff Polytope. 
 
-**Dallakyan A.** and Pourahmadi M. (2020+). Fused-Lasso Regularized Cholesky Factors of Large Nonstationary Covariance Matrices of Longitudinal Data. Available [on the arxiv](https://arxiv.org/abs/2007.11168). [R Package](https://github.com/adallak/SCPackage)
+## Under review
+**Dallakyan A.** and Pourahmadi M. (2021+). Fused-Lasso Regularized Cholesky Factors of Large Nonstationary Covariance Matrices of Replicated Time Series. Available [on the arxiv](https://arxiv.org/abs/2007.11168). [R Package](https://github.com/adallak/SCPackage)
 
-**Dallakyan A.**, Rakheon Kim, and Pourahmadi M. (2020 +). Time Series Graphical Lasso vs Sparse VAR Algorithms.[R Package available soon]
+**Dallakyan A.**, Rakheon K., and Pourahmadi M. (2021 +). Time Series Graphical Lasso and Sparse VAR Estimation.[R Package available soon]
 
 ## Peer-reviewed
 
