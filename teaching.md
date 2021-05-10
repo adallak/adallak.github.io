@@ -7,10 +7,10 @@ bigimg:
 
 ## Classes taught as an Instructor at Texas A&M University
 ### Department of Statistics
-**STAT 211: Principles of Statistics I**. (Fall 2018, Spring 2019, Fall 2019) Calculus-based introduction to probability and 
+**STAT 211: Principles of Statistics I**. (Fall 2018, 2019, 2020, Spring 2019, 2020) Calculus-based introduction to probability and 
 probability distributions; sampling and descriptive measures; inference and hypothesis testing; analysis of variance; linear regression.
 
-**STAT 303: Statistical Methods**. (Summer 2019) Introduction to descriptive statistics and basic statistical methods, no calculus background is required.
+**STAT 303: Statistical Methods**. (Summer 2019, Spring 2021) Introduction to descriptive statistics and basic statistical methods, no calculus background is required.
 
 ### Department of Agricultural Economics
 
