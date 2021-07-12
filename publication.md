@@ -7,7 +7,7 @@ bigimg:
 
 
 ## Under review
-**Dallakyan A.** and Pourahmadi M. (2021+). Learning Bayesian Networks through Birkhoff Polytope: A Relaxation Method, Available [on the arxiv](https://arxiv.org/abs/2107.01658) [Python Code](https://codeocean.com/capsule/7189183/tree/v1)
+**Dallakyan A.** and Pourahmadi M. (2021+). Learning Bayesian Networks through Birkhoff Polytope: A Relaxation Method, Available [on the arxiv.](https://arxiv.org/abs/2107.01658) [Python Code](https://codeocean.com/capsule/7189183/tree/v1)
 
 **Dallakyan A.** and Pourahmadi M. (2021+). Fused-Lasso Regularized Cholesky Factors of Large Nonstationary Covariance Matrices of Replicated Time Series. Available [on the arxiv](https://arxiv.org/abs/2007.11168). [R Package](https://github.com/adallak/SCPackage)
 
