@@ -11,7 +11,7 @@ bigimg:
 
 **Dallakyan A.** and Pourahmadi M. (2021+). Fused-Lasso Regularized Cholesky Factors of Large Nonstationary Covariance Matrices of Replicated Time Series. Available [on the arxiv](https://arxiv.org/abs/2007.11168). [R Package](https://github.com/adallak/SCPackage)
 
-**Dallakyan A.**, Rakheon K., and Pourahmadi M. (2021 +). Time Series Graphical Lasso and Sparse VAR Estimation. Available [on the arxiv](https://arxiv.org/abs/2107.01659) [R Code](https://github.com/adallak/TSGlasso)
+**Dallakyan A.**, Rakheon K., and Pourahmadi M. (2021 +). Time Series Graphical Lasso and Sparse VAR Estimation. Available [on the arxiv](https://arxiv.org/abs/2107.01659). [R Code](https://github.com/adallak/TSGlasso)
 
 ## Peer-reviewed
 
