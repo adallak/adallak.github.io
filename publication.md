@@ -15,9 +15,12 @@ bigimg:
 
 ## Peer-reviewed
 
-**Dallakyan, A.**, Kim, R., & Pourahmadi, M. (2022). Time series graphical lasso and sparse VAR estimation. Computational Statistics & Data Analysis, 176, 107557. https://doi.org/10.1016/j.csda.2022.107557 (https://github.com/adallak/SCPackage)
 
-**Dallakyan, A.** & Pourahmadi, M. (2022) Fused-Lasso Regularized Cholesky Factors of Large Nonstationary Covariance Matrices of Replicated Time Series, Journal of Computational and Graphical Statistics, DOI: 10.1080/10618600.2022.2090367 ([https://github.com/adallak/TSGlasso](https://github.com/adallak/msVAR))
+**Dallakyan, A.**, Kim, R., & Pourahmadi, M. (2022). Time series graphical lasso and sparse VAR estimation. Computational Statistics & Data Analysis, 176, 107557. https://doi.org/10.1016/j.csda.2022.107557 [R Package](https://github.com/adallak/msVAR)
+
+**Dallakyan, A.** & Pourahmadi, M. (2022) Fused-Lasso Regularized Cholesky Factors of Large Nonstationary Covariance Matrices of Replicated Time Series, Journal of Computational and Graphical Statistics, DOI: 10.1080/10618600.2022.2090367 [R Script]([https://github.com/adallak/SCPackage](https://github.com/adallak/msVAR))
+
+**Dallakyan, A.** (2022). Graphiclasso: Graphical lasso for learning sparse inverse-covariance matrices. The Stata Journal. https://doi.org/10.1177/1536867X221124538 [Stata package](https://github.com/adallak/stataglasso)
 
 **Dallakyan A.**(2020). Nonparanormal Structural VAR for Non-Gaussian Data. *Journal of Comp. Economics*, Available [here](https://urldefense.com/v3/__https://rdcu.be/b5nl5__;!!KwNVnqRv!Ta45hrCpZ785xV4ziLNdZWDEZ8aMVWeaO7qJyTDQMYyA06eFaL0USvaqnXIuIfDm7MbvXTQ$)
 
