@@ -16,7 +16,7 @@ bigimg:
 ## Peer-reviewed
 
 
-**Dallakyan, A.**, Kim, R., & Pourahmadi, M. (2022). Time series graphical lasso and sparse VAR estimation. Computational Statistics & Data Analysis, 176, 107557. Available [here](https://doi.org/10.1016/j.csda.2022.107557). [R Package](https://github.com/adallak/msVAR)
+**Dallakyan, A.**, Kim, R., & Pourahmadi, M. (2022). Time series graphical lasso and sparse VAR estimation. Computational Statistics & Data Analysis, 176, 107557. Available [here](https://doi.org/10.1016/j.csda.2022.107557). [R Package](https://github.com/adallak/tsgl)
 
 **Dallakyan, A.** & Pourahmadi, M. (2022) Fused-Lasso Regularized Cholesky Factors of Large Nonstationary Covariance Matrices of Replicated Time Series, Journal of Computational and Graphical Statistics,  Available [here]([https://doi.org/10.1016/j.csda.2022.107557](https://www.tandfonline.com/doi/abs/10.1080/10618600.2022.2090367)). [R Script](https://github.com/adallak/SCpackage)
 
