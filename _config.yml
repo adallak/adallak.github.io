@@ -25,6 +25,7 @@ navbar-links:
    # - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
    # - Learn markdown: "http://www.markdowntutorial.com/"
   Publications : "publication" # "http://deanattali.com"
+  Software: "software"
   Teaching: "teaching"
   Misc:     "misc" #"404"
 # Image to show in the navigation bar - image must be a square (width = height)
