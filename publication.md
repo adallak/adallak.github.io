@@ -8,7 +8,7 @@ bigimg:
 
 ## Under review
 **Dallakyan A.** (2023+). On Learning Time Series Summary DAGs: A Frequency Domain Approach.
-Available [here](/Resources/publications.jpg). [Python Code: Available Soon]
+Available [here](/Resources/manuscript.pdf). [Python Code: Available Soon]
 
 **Dallakyan A.** and Pourahmadi M. (2023+). Learning Bayesian Networks through Birkhoff Polytope: A Relaxation Method, Available [on the arxiv.](https://arxiv.org/abs/2107.01658) [Python Code](https://codeocean.com/capsule/7189183/tree/v1)
 
