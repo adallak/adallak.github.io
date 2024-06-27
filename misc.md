@@ -33,3 +33,10 @@ title: Useful Material
 - Day 1 - <a href="../Resources/day1" target="_blank">Hands-On Python</a>
 - Day 2 - <a href="../Resources/day2" target="_blank">Data Wrangling</a>
 
+## Causal Mediation Analysis (Stata Conference and JSM, Portland)
+
+- <a href="../Resources/cma_ard.pdf" target="_blank">presentation.pdf</a>
+- <a href="../Resources/cma.do" target="_blank">cma.do</a>
+- <a href="../Resources/birthweight.dta" target="_blank">birthweight.dta</a>
+- <a href="../Resources/wellbeing.dta" target="_blank">wellbeing.dta</a>
+
