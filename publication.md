@@ -7,7 +7,7 @@ bigimg:
 
 
 ## Under review
-**Dallakyan A.** andPourahmadi M. (2024+). An Alternative Graphical Lasso Algorithm for Precision Matrices [on the arxiv.](https://arxiv.org/abs/2404.05148)
+**Dallakyan A.** and Pourahmadi M. (2024+). An Alternative Graphical Lasso Algorithm for Precision Matrices [on the arxiv.](https://arxiv.org/abs/2404.05148)
 
 **Dallakyan A.** and Yang Ni (2024+). Generalized Criterion for Identifiability of Additive Noise Models Using Majorization [on the arxiv.](https://arxiv.org/abs/2107.01658)
 
