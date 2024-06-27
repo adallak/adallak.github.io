@@ -7,19 +7,21 @@ bigimg:
 
 
 ## Under review
-**Dallakyan A.** (2023+). On Learning Time Series Summary DAGs: A Frequency Domain Approach.
-Available [here](/Resources/manuscript.pdf). [Python Code: Available Soon]
+**Dallakyan A.** andPourahmadi M. (2024+). An Alternative Graphical Lasso Algorithm for Precision Matrices [on the arxiv.](https://arxiv.org/abs/2404.05148)
 
-**Dallakyan A.** and Pourahmadi M. (2023+). Learning Bayesian Networks through Birkhoff Polytope: A Relaxation Method, Available [on the arxiv.](https://arxiv.org/abs/2107.01658) [Python Code](https://codeocean.com/capsule/7189183/tree/v1)
+**Dallakyan A.** and Yang Ni (2024+). Generalized Criterion for Identifiability of Additive Noise Models Using Majorization [on the arxiv.](https://arxiv.org/abs/2107.01658)
 
-
+**Dallakyan A.** and Pourahmadi M. (2024+). Learning Bayesian Networks through Birkhoff Polytope: A Relaxation Method, Available [on the arxiv.](https://arxiv.org/abs/2107.01658) [Python Code](https://codeocean.com/capsule/7189183/tree/v1)
 
 ## Peer-reviewed
 
+**Dallakyan A.** (2024). On Learning Time Series Summary DAGs: A Frequency Domain Approach,
+Econometrics and Statistics
+Available [here](https://doi.org/10.1016/j.ecosta.2024.06.003). [Python Code: Available Soon]
+
+**Dallakyan, A.** & Pourahmadi, M. (2023) Fused-Lasso Regularized Cholesky Factors of Large Nonstationary Covariance Matrices of Replicated Time Series, Journal of Computational and Graphical Statistics,  Available [here]([https://doi.org/10.1016/j.csda.2022.107557](https://www.tandfonline.com/doi/abs/10.1080/10618600.2022.2090367)). [R Script](https://github.com/adallak/SCpackage)
 
 **Dallakyan, A.**, Kim, R., & Pourahmadi, M. (2022). Time series graphical lasso and sparse VAR estimation. Computational Statistics & Data Analysis, 176, 107557. Available [here](https://doi.org/10.1016/j.csda.2022.107557). [R Package](https://github.com/adallak/tsgl)
-
-**Dallakyan, A.** & Pourahmadi, M. (2022) Fused-Lasso Regularized Cholesky Factors of Large Nonstationary Covariance Matrices of Replicated Time Series, Journal of Computational and Graphical Statistics,  Available [here]([https://doi.org/10.1016/j.csda.2022.107557](https://www.tandfonline.com/doi/abs/10.1080/10618600.2022.2090367)). [R Script](https://github.com/adallak/SCpackage)
 
 **Dallakyan, A.** (2022). Graphiclasso: Graphical lasso for learning sparse inverse-covariance matrices. The Stata Journal. Available [here](https://doi.org/10.1177/1536867X221124538). [Stata package](https://github.com/adallak/stataglasso)
 
