@@ -9,7 +9,7 @@ bigimg:
 ## Under review
 **Dallakyan A.** and Pourahmadi M. (2024+). An Alternative Graphical Lasso Algorithm for Precision Matrices. Available [on the arxiv.](https://arxiv.org/abs/2403.12357)
 
-**Dallakyan A.** and Yang Ni (2024+). Generalized Criterion for Identifiability of Additive Noise Models Using Majorization. Available [on the arxiv.]([https://arxiv.org/abs/(https://arxiv.org/abs/2404.05148))
+**Dallakyan A.** and Yang Ni (2024+). Generalized Criterion for Identifiability of Additive Noise Models Using Majorization. Available [on the arxiv.](https://arxiv.org/abs/2404.05148)
 
 **Dallakyan A.** and Pourahmadi M. (2024+). Learning Bayesian Networks through Birkhoff Polytope: A Relaxation Method. Available [on the arxiv.](https://arxiv.org/abs/2107.01658) [Python Code](https://codeocean.com/capsule/7189183/tree/v1)
 
