@@ -22,7 +22,7 @@ Available [here](https://doi.org/10.1016/j.ecosta.2024.06.003). [Python Code: Av
 
 **Dallakyan, A.**, Kim, R., & Pourahmadi, M. (2022). Time series graphical lasso and sparse VAR estimation. Computational Statistics & Data Analysis, 176, 107557. Available [here](https://doi.org/10.1016/j.csda.2022.107557). [R Package](https://github.com/adallak/tsgl)
 
-**Dallakyan, A.** (2022). Graphiclasso: Graphical lasso for learning sparse inverse-covariance matrices. The Stata Journal. Available [here](https://doi.org/10.1177/1536867X221124538). [Stata package](https://github.com/adallak/stataglasso)
+**Dallakyan, A.** (2022). graphiclasso: Graphical lasso for learning sparse inverse-covariance matrices. The Stata Journal. Available [here](https://doi.org/10.1177/1536867X221124538). [Stata package](https://github.com/adallak/stataglasso)
 
 **Dallakyan A.** (2020). Nonparanormal Structural VAR for Non-Gaussian Data. *Journal of Comp. Economics*. Available [here](https://urldefense.com/v3/__https://rdcu.be/b5nl5__;!!KwNVnqRv!Ta45hrCpZ785xV4ziLNdZWDEZ8aMVWeaO7qJyTDQMYyA06eFaL0USvaqnXIuIfDm7MbvXTQ$)
 
