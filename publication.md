@@ -9,14 +9,13 @@ bigimg:
 ## Under review
 **Dallakyan A.** and Pourahmadi M. (2024+). An Alternative Graphical Lasso Algorithm for Precision Matrices. Available [on the arxiv.](https://arxiv.org/abs/2403.12357)
 
-**Dallakyan A.** and Yang Ni (2024+). Generalized Criterion for Identifiability of Additive Noise Models Using Majorization. Available [on the arxiv.](https://arxiv.org/abs/2404.05148)
-
 **Dallakyan A.** and Pourahmadi M. (2024+). Learning Bayesian Networks through Birkhoff Polytope: A Relaxation Method. Available [on the arxiv.](https://arxiv.org/abs/2107.01658) [Python Code](https://codeocean.com/capsule/7189183/tree/v1)
 
 ## Peer-reviewed
+**Dallakyan A.** and Yang Ni (2025). Generalized Criterion for Identifiability of Additive Noise Models Using Majorization. Proceedings of The 28th International Conference on Artificial Intelligence and Statistics, Available [on the arxiv.](https://arxiv.org/abs/2404.05148)
 
 **Dallakyan A.** (2024). On Learning Time Series Summary DAGs: A Frequency Domain Approach,
-Econometrics and Statistics
+Econometrics and Statistics, 
 Available [here](https://doi.org/10.1016/j.ecosta.2024.06.003). [Python Code: Available Soon]
 
 **Dallakyan, A.** & Pourahmadi, M. (2023) Fused-Lasso Regularized Cholesky Factors of Large Nonstationary Covariance Matrices of Replicated Time Series, Journal of Computational and Graphical Statistics,  Available [here]([https://doi.org/10.1016/j.csda.2022.107557](https://www.tandfonline.com/doi/abs/10.1080/10618600.2022.2090367)). [R Script](https://github.com/adallak/SCpackage)
