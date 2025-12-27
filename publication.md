@@ -6,7 +6,7 @@ bigimg:
 ---
 
 ## Upcoming Book
-Pourahmadi M. and **Dallakyan A.** (2026+). Regressions in Covariances, Dependencies and Graphs. CRC Press. [Under construction](https://rcdg-book.cv/) [Complementary R package](https://github.com/adallak/recode))
+Pourahmadi M. and **Dallakyan A.** (2026+). Regressions in Covariances, Dependencies and Graphs. CRC Press. [Website under construction](https://rcdg-book.cv/). [Complementary R package](https://github.com/adallak/recode)
 
 ## Under review
 **Dallakyan A.** (2026+). SmoRe: Smooth Relaxation of l0 regularization. [Available soon] [Python Code](https://github.com/adallak/SmoRe)
@@ -14,7 +14,7 @@ Pourahmadi M. and **Dallakyan A.** (2026+). Regressions in Covariances, Dependen
 **Dallakyan A.** and Pourahmadi M. (2026+). Learning Bayesian Networks through Birkhoff Polytope: A Relaxation Method. Available [on the arxiv.](https://arxiv.org/abs/2107.01658) [Python Code](https://codeocean.com/capsule/7189183/tree/v1)
 
 ## Peer-reviewed
-**Dallakyan A.** and Yang Ni (2025). Generalized Criterion for Identifiability of Additive Noise Models Using Majorization. Proceedings of The 28th International Conference on Artificial Intelligence and Statistics, Available [on the arxiv.](https://arxiv.org/abs/2404.05148)[R Code](https://github.com/adallak/macho)
+**Dallakyan A.** and Yang Ni (2025). Generalized Criterion for Identifiability of Additive Noise Models Using Majorization. Proceedings of The 28th International Conference on Artificial Intelligence and Statistics, Available [on the arxiv.](https://arxiv.org/abs/2404.05148) [R Code](https://github.com/adallak/macho)
 
 **Dallakyan A.** (2024). On Learning Time Series Summary DAGs: A Frequency Domain Approach,
 Econometrics and Statistics, 
@@ -28,7 +28,7 @@ Available [here](https://doi.org/10.1016/j.ecosta.2024.06.003). [Python Code](ht
 
 **Dallakyan A.** (2020). Nonparanormal Structural VAR for Non-Gaussian Data. *Journal of Comp. Economics*. Available [here](https://urldefense.com/v3/__https://rdcu.be/b5nl5__;!!KwNVnqRv!Ta45hrCpZ785xV4ziLNdZWDEZ8aMVWeaO7qJyTDQMYyA06eFaL0USvaqnXIuIfDm7MbvXTQ$)
 
-Bakhtavoryan R., Capps O. , Salin V., and **Dallakyan A.** (2018) The Use of Time Series
+Bakhtavoryan R., Capps O., Salin V., and **Dallakyan A.** (2018) The Use of Time Series
 Analysis in Examining Food Safety Issues.*Journal of Food Distribution Research*.2(49) 57-80
 
 Bakhtavoryan R., **Dallakyan A.**, and M. Galstyan.(2016)Analysis of Factors Impacting Rural
