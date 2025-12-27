@@ -4,7 +4,7 @@ title: Software
 bigimg: 
   - "/Resources/software.jpg" 
 ---
-- [smore](https://github.com/adallak/SmoRe) - Python code to implement smooth relaxation of l0 regularization [Dallakyan 2026].
+- [smore](https://github.com/adallak/SmoRe) - Python code to implement smooth relaxation of l0 regularization as in [Dallakyan 2026].
 - [sglasso](https://github.com/adallak/sglasso) - R package that implements Simplified Graphical Lasso algorithm as in [Dallakyan and Pourahmadi 2025](https://arxiv.org/abs/2403.12357).
 - [macho](https://github.com/adallak/macho) - R code for causal discovery using majorization as in [Dallakyan and Ni 2025](https://arxiv.org/abs/2404.05148).
 - [FreDom](https://github.com/adallak/macho) - Python code for learning DAG from time series (FreDom algorithm) as in [Dallakyan 2024](https://doi.org/10.1016/j.ecosta.2024.06.003).
