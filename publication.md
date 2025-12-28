@@ -5,8 +5,8 @@ bigimg:
   - "/Resources/publications.jpg" 
 ---
 
-## Upcoming Book
-Pourahmadi M. and **Dallakyan A.** (2026+). Regressions in Covariances, Dependencies and Graphs. CRC Press. [Website under construction](https://rcdg-book.cv/). [Complementary R package](https://github.com/adallak/recode)
+## Book
+Pourahmadi M. and **Dallakyan A.** (forthcoming 2026). Regressions in Covariances, Dependencies and Graphs. CRC Press. [Website under construction](https://rcdg-book.cv/). [Complementary R package](https://github.com/adallak/recode)
 
 ## Under review
 **Dallakyan A.** (2026+). SmoRe: Smooth Relaxation of l0 regularization. [Available soon] [Python Code](https://github.com/adallak/SmoRe)
