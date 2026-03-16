@@ -5,7 +5,7 @@ title: Useful Materials
 
 # Workshops
 ## Introduction to Explainable Machine Learning (ENAR and JSM)
-- <a href="../Resources/H2OML_presentation.pdf" target="_blank">presentation.pdf</a>
+- <a href="../Resources/H2OML_Presentation.pdf" target="_blank">presentation.pdf</a>
 
 ## Causal Mediation Analysis (Stata Conference and JSM, Portland)
 
