@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Useful Material
+title: Useful Materials
 ---
 
 # Workshops
