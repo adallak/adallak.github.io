@@ -17,13 +17,14 @@ published: true
 ---
 
 {: .box-note}
-**Big news.** My new book *Regressions in Covariances, Dependencies and Graphs* — co-authored with **Mohsen Pourahmadi** — is now available for preorder. Published in the **Chapman & Hall / CRC Texts in Statistical Science** series.
+**Big news.** Our new book *Regressions in Covariances, Dependencies and Graphs*, co-authored with **Mohsen Pourahmadi**, is now available for preorder. Published in the **Chapman & Hall / CRC Texts in Statistical Science** series.
 
 ![Book cover](https://rcdg-book.cv/material/book_cover_v1.png){: .center-block :}
 
 ## What it's about
+## What it's about
 
-The book addresses the analysis of multivariate data with cross-sectional and temporal dependencies through the lens of regression — modeling covariances, copulas, and graphs. It presents parsimonious models for classical data and regularization methods for high-dimensional data, with special emphasis on graphical Lasso algorithms. Each chapter ends with practical, ready-to-run R scripts.
+The book is about **modeling dependencies — linear and nonlinear, cross-sectional, temporal, and spatial — in multivariate data**. Its unifying idea is to bring the success of regression on means (first moments) to the harder problem of modeling covariance matrices (second moments), and eventually full distributions. Two complementary strategies anchor the treatment: *covariance regression*, which writes a covariance matrix or one of its transforms as a function of covariates, edging toward generalized linear models for second moments; and *hidden regression*, the column-by-column iterative idea at the heart of the regularized Gaussian likelihood and the Graphical Lasso. Copulas extend the framework to nonlinearity, extreme values, and long-tail behavior, and regularization makes it work in high dimensions. Every chapter ends with hands-on R scripts, and the companion **`recode`** package ships real and simulated datasets along with the functions to reproduce every example.
 
 ## Where to order
 
@@ -50,6 +51,7 @@ Chapter scripts live in a separate public repo for easy cloning: [github.com/ada
 - Regularized regression and the Lasso, with thresholding and coordinate descent
 - Covariance matrices: spectral, Cholesky, and variance–correlation factorizations
 - PCA, factor analysis, and modern approximate factor models (POET)
+- GLM for covariance matrices, graphical regression
 - Shrinkage (Ledoit–Wolf) and thresholding for large covariance estimation
 - Undirected Gaussian graphical models and the Graphical Lasso
 - DAGs, Bayesian networks, and structural equation models
